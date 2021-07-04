@@ -1,3 +1,3 @@
 # nlw-origin
 
-<a href="https://ellissandro.github.io/nlw-origin/"/>Ver projeto
+<a target="_blank" href="https://ellissandro.github.io/nlw-origin/"/>Ver projeto
